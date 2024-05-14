@@ -31,9 +31,7 @@ vivado 2023.3
 
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-5/assets/6987778/34ec5d63-2b3b-4511-81ef-99f4572d5869)
 
-
 # VERILOG CODE:
-
 ~~~
 module Sequence_Detector_Moore(clock,reset,sequence_in,detector_out);
 input clock, reset, sequence_in; 
@@ -92,7 +90,6 @@ begin
 end 
 endmodule
 ~~~
-
 # OUTPUT:
 ![fsm11](https://github.com/CalebSamraj14/VLSI-LAB-EXP-5/assets/163808923/89457bfc-2a68-47e9-8a46-f26c4fbcb487)
 
