@@ -22,8 +22,8 @@ vivado 2023.3
 8.Run Simulation: Start the simulation by clicking on the "Run" button in the simulation window.
 
 9.View Results: After the simulation completes, you can view waveforms, debug signals, and analyze the behavior of your design.
-
-# Logic Diagram : ![image](https://github.com/navaneethans/VLSI-LAB-EXP-5/assets/6987778/34ec5d63-2b3b-4511-81ef-99f4572d5869)
+# Logic Diagram :
+![image](https://github.com/navaneethans/VLSI-LAB-EXP-5/assets/6987778/34ec5d63-2b3b-4511-81ef-99f4572d5869)
 # VERILOG CODE:
 ~~~
 module Sequence_Detector_Moore(clock,reset,sequence_in,detector_out);
